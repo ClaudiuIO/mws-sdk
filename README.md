@@ -2,6 +2,7 @@ mws-sdk-promises
 ======
 
 Originally forked from [ticadia/mws-sdk](https://github.com/ticadia/mws-sdk).
+Forked from [vedmalex/mws-sdk](https://github.com/vedmalex/mws-sdk) to support products GetMyFeesEstimate api.
 
 What is done:
 -------------
